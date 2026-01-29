@@ -28,7 +28,3 @@ Java dev | Spring Boot | Microservices
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiftakhovArtur)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@a.mIftakhov)
 
-## Badges
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiftakhovArtur&show_icons=true&hide=commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MiftakhovArtur)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiftakhovArtur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MiftakhovArtur)
