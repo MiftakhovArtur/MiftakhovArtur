@@ -44,11 +44,7 @@
 ## 📊 GitHub Stats
 
 <div style="display:flex; align-items:center; gap:10px;">
-  <a href="https://github.com/MiftakhovArtur" style="display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MiftakhovArtur&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" width="400"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiftakhovArtur&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" width="350"/>
   <div style="font-size:40px; color:#ffffff;">|</div>
-  <a href="https://github.com/MiftakhovArtur" style="display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiftakhovArtur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" width="400"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiftakhovArtur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" width="350"/>
 </div>
