@@ -1,44 +1,52 @@
-# Hi! 👋 My name is Artur Miftakhov
+<div align="center">
+  <h1>Hi! 👋 I'm Artur Miftakhov</h1>
+  <p>Java Developer | Spring Boot | Microservices | Backend Enthusiast</p>
+</div>
 
-## Java Developer
+---
 
-Java dev | Spring Boot | Microservices
+## 🌍 About Me
 
-* 🌍 I'm based in Kazan, Russia
-* 🧠 Currently learning high-load systems and scalability patterns
-* 👥 Open to collaborating on open-source Java and backend projects
-* 💬 Ask me about turning complex problems into simple backend solutions
+- Based in Kazan, Russia 🇷🇺  
+- Currently learning high-load systems and scalability patterns  
+- Open to collaborating on open-source Java & backend projects  
+- Ask me about turning complex problems into simple backend solutions
 
 ---
 
 ## 💻 Core Skills
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
-</div>
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="32" height="32" alt="Java"/>](https://www.oracle.com/java/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="32" height="32" alt="Git"/>](https://git-scm.com/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="32" height="32" alt="Spring Boot"/>](https://spring.io/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="32" height="32" alt="Kotlin"/>](https://kotlinlang.org/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="32" height="32" alt="PHP"/>](https://www.php.net/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" height="32" alt="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" height="32" alt="CSS3"/>](https://www.w3.org/TR/CSS/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="32" height="32" alt="MySQL"/>](https://www.mysql.com/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="32" height="32" alt="PostgreSQL"/>](https://www.postgresql.org/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" height="32" alt="Docker"/>](https://www.docker.com/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="32" height="32" alt="Kubernetes"/>](https://kubernetes.io/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="32" height="32" alt="VS Code"/>](https://code.visualstudio.com/)
 
 ---
 
 ## 🌐 Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MiftakhovArtur)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@a.mIftakhov)
+<div>
+  <a href="https://github.com/MiftakhovArtur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.youtube.com/@a.mIftakhov"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://t.me/YourTelegram"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiftakhovArtur&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MiftakhovArtur)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiftakhovArtur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MiftakhovArtur)
+<div>
+  <a href="https://github.com/MiftakhovArtur">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiftakhovArtur&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="MiftakhovArtur's GitHub stats"/>
+  </a>
+  <a href="https://github.com/MiftakhovArtur">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiftakhovArtur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
+  </a>
+</div>
