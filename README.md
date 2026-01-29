@@ -1,16 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Artur Miftakhov
-========================================================================================================================================
+# Hi! 👋 My name is Artur Miftakhov
 
-Java Developer
---------------
+## Java Developer
 
 Java dev | Spring Boot | Microservices
 
-*   🌍  I'm based in Kazan, Russia
-*   🧠  I'm currently learning I’m currently learning high-load systems and scalability patterns
-*   👥  I'm looking to collaborate on I’m open to collaborating on open-source Java and backend projects
-*   💬  Ask me about Turning complex problems into simple backend solutions
-💻 **Core Skills**
+* 🌍 I'm based in Kazan, Russia
+* 🧠 Currently learning high-load systems and scalability patterns
+* 👥 Open to collaborating on open-source Java and backend projects
+* 💬 Ask me about turning complex problems into simple backend solutions
+
+## 💻 Core Skills
 [![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg)](https://www.oracle.com/java/)
 [![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)](https://git-scm.com/)
 [![Spring Boot](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg)](https://spring.io/)
@@ -25,18 +24,11 @@ Java dev | Spring Boot | Microservices
 [![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg)](https://www.docker.com/)
 [![Kubernetes](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg)](https://kubernetes.io/)
 
-### Socials
+## Socials
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiftakhovArtur)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@a.mIftakhov)
 
+## Badges
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiftakhovArtur&show_icons=true&hide=commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MiftakhovArtur)
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MiftakhovArtur"><img src="https://github-readme-stats.vercel.app/api?username=MiftakhovArtur&show_icons=true&hide=commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MiftakhovArtur's GitHub stats" /></a>
-
-<a href="https://github.com/MiftakhovArtur" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiftakhovArtur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<!-- update -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiftakhovArtur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MiftakhovArtur)
