@@ -13,23 +13,23 @@ Java dev | Spring Boot | Microservices
 
 ## 💻 Core Skills
 
-[![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg =32x32)](https://www.oracle.com/java/) 
-[![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg =32x32)](https://git-scm.com/) 
-[![Spring Boot](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg =32x32)](https://spring.io/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="32" height="32" alt="Java"/>](https://www.oracle.com/java/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="32" height="32" alt="Git"/>](https://git-scm.com/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="32" height="32" alt="Spring Boot"/>](https://spring.io/)
 
-[![Kotlin](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg =32x32)](https://kotlinlang.org/) 
-[![PHP](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg =32x32)](https://www.php.net/) 
-[![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg =32x32)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="32" height="32" alt="Kotlin"/>](https://kotlinlang.org/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="32" height="32" alt="PHP"/>](https://www.php.net/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[![VS Code](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg =32x32)](https://code.visualstudio.com/) 
-[![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg =32x32)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) 
-[![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg =32x32)](https://www.w3.org/TR/CSS/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="32" height="32" alt="VS Code"/>](https://code.visualstudio.com/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" height="32" alt="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" height="32" alt="CSS3"/>](https://www.w3.org/TR/CSS/)
 
-[![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg =32x32)](https://www.mysql.com/) 
-[![PostgreSQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg =32x32)](https://www.postgresql.org/) 
-[![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg =32x32)](https://www.docker.com/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="32" height="32" alt="MySQL"/>](https://www.mysql.com/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="32" height="32" alt="PostgreSQL"/>](https://www.postgresql.org/) 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" height="32" alt="Docker"/>](https://www.docker.com/)
 
-[![Kubernetes](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg =32x32)](https://kubernetes.io/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="32" height="32" alt="Kubernetes"/>](https://kubernetes.io/)
 
 ---
 
